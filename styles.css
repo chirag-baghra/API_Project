@@ -851,7 +851,7 @@ header {
   transform: translateX(-50%);
   width: 200px;
   height: 92px;
-  background-image: url("../images/logo.svg");
+  background-image: url("logo.svg");
   line-height: 0;
   background-size: 100%;
   background-repeat: no-repeat;
